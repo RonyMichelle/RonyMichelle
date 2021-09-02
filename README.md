@@ -1,6 +1,7 @@
 ### Hi there, I'm Rony-Michelle 👋🏼
 
 ![me](https://user-images.githubusercontent.com/64858590/131859808-7651b2e6-c97a-434b-bedb-e14ebabd9d50.jpeg)
+<a><img src="https://user-images.githubusercontent.com/64858590/131859808-7651b2e6-c97a-434b-bedb-e14ebabd9d50.jpeg" align="right" height="200" /></a>
 
 <!--
 [![Gmail Badge](https://img.shields.io/badge/-sdey9@uic.edu-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:sdey9@uic.edu "Connect via Email")
