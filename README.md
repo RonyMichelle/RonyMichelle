@@ -1,4 +1,4 @@
-### Hi there, I'm Rony-Michelle 👋🏼
+### Hi there, I'm Rony-Michelle 
 
 <a><img src="https://user-images.githubusercontent.com/64858590/131871026-24bc50ce-eb77-403d-8d00-573d27c165a0.png" align="right" height="300" /></a>
 
