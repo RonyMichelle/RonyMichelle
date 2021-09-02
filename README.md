@@ -1,5 +1,7 @@
 ### Hi there, I'm Rony-Michelle 👋🏼
 
+![me](https://user-images.githubusercontent.com/64858590/131859808-7651b2e6-c97a-434b-bedb-e14ebabd9d50.jpeg)
+
 <!--
 [![Gmail Badge](https://img.shields.io/badge/-sdey9@uic.edu-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:sdey9@uic.edu "Connect via Email")
 [![Linkedin Badge](https://img.shields.io/badge/-Samujjwaal%20Dey-0072b1?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/samujjwaal/ "Connect on LinkedIn")
