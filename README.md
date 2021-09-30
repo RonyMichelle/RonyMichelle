@@ -2,7 +2,7 @@
 
 [![Linkedin Badge](https://img.shields.io/badge/-Rony%20Michelle-0072b1?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/rony-michelle-pinzaru-76135b1b0/ "Connect on LinkedIn")
 
-[![Gmail Badge](https://img.shields.io/badge/-ronymichellep@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:ronnymichelle2000@gmail "Connect via Email")
+[![Gmail Badge](https://img.shields.io/badge/-ronnymichelle2000@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:ronnymichelle2000@gmail "Connect via Email")
 
 <a><img src="https://user-images.githubusercontent.com/64858590/131871026-24bc50ce-eb77-403d-8d00-573d27c165a0.png" align="right" height="300" /></a>
 
